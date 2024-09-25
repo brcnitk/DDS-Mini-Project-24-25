@@ -1,30 +1,29 @@
-# DDS-Mini-Project-23-24
-Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) details ...
+# DDS-Mini-Project-24-25
+Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) details ...
 
 ## List:
 
-| Sl. No. | Title | Title |
+| Sl. No. | Title (S1-Section) | Title (S2-Section) |
 | :---: | --- | --- |
-| 1 | [(Detail)]() | Universal Asynchronous Receiver-Transmitter [(Detail)](https://github.com/KrishnaBhargavN/Uart) |
-| 2 | Smart Bicycle [(Detail)](https://github.com/AmruthSD/Smart-Bicycle) | Heatwatch: Temperature Monitoring System [(Detail)](https://github.com/ANSHVIVEKMALHOTRA/Miniproject-HEATWATCH) |
-| 3 | [(Detail)]() | Braille-to-Audio Converter [(Detail)]() |
-| 4 | Agri Rain Alarm System [(Detail)](https://github.com/RahulGanta2/Agri-rain-alarm-system-main-) | Automated Braking System [(Detail)](https://github.com/Poorvab2525/Team-4) |
-| 5 | TrainGuard: Empowering Ticket Collectors with Smart Passenger Monitoring [(Detail)](https://github.com/harsh232gupta/-DDS-Mini-Project--TrainGuard) | Tic Tac Toe Game [(Detail)](https://github.com/RandomHero07/T5-S2-main) |
-| 6 | Line Following Maze Solver [(Detail)](https://github.com/Arnella16/LINE-FOLLOWING-MAZE-SOLVER) | Vending Machine for cold and Hot beverages [(Detail)]() |
-| 7 | Secure Vote: Digital Voting Machine [(Detail)](https://github.com/SthuthiS54/SECURE_VOTE-S1-T7) | eX_Calci [(Detail)](https://github.com/Nagabhushanam2005/eX_Calci) |
-| 8 | Automatic Visitor Counter and Power Control [(Detail)](https://github.com/AahilRafiq/DDS-miniproject-T8) | Smart Home Energy Monitoring and Management System [(Detail)](https://github.com/SidharthTR249/DDS-Mini-Project-T8) |
-| 9 | Parking Management System [(Detail)](https://github.com/nagamukesh/Car-Parking-management-system-project) | Automated Reception Desk for Hospitals [(Detail)](https://github.com/HimaneeshYadala/Automated-Reception-Desk) |
-| 10 | Memory Game [(Detail)](https://github.com/techsharada604/Team-10-DDS) | Guaranteed Profits with Arbitrage Betting [(Detail)](https://github.com/Hayden-Soares/arbitrage-betting-sim) |
-| 11 | End To End Encryption[(Detail)](https://github.com/AdiPadi2703/End-To-End-Encrypted-Communication) | Text to Braille Converter [(Detail)](https://github.com/S2-team11/Text-To-Braille-S2T11) |
-| 12 | Enhanced Security Locking System [(Detail)](https://github.com/mrgouri/DDS-Mini-Project-23-24-Enhanced-Security-Locking-System) | Auto Sensing Fire Extinguisher [(Detail)](https://github.com/aryan-kundu/AutoSensingFireExtinguisher) |
-| 13 | Alcohol Detection with Vehicle Controlling System [(Detail)](https://github.com/Bhaktirk269/DDS-MINI-PROJECT) | Smart Commute [(Detail)](https://github.com/harshini-20-05/DDS-MINI-PROJECT-23-24) |
-| 14 | Digital Clock [(Detail)](https://github.com/ADITHYASHETTY123/Digital_clock) | Patient Friendly Medication Digital Reminder System [(Detail)](https://github.com/Rohan-Chandra-04/S2-T-14-DDS-Mini-Project-2023-24) |
-| 15 | Vacant Parking SLot Detector [(Detail)](https://github.com/RianPinto/Vacant-Parking-Slot-Detector) | Digit Number Lock System [(Detail)](https://github.com/ga05nu/DDS-MINI-PROJECT-2023-24) |
-| 16 | Dual Dice Game [(Detail)](https://github.com/rahul-mondal01/S1-T16-Dual-Dice) | Optimum room temperature regulator [(Detail)](https://github.com/Cioraz/DDS-Mini-Project) |
-| 17 | Railway Traffic Management [(Detail)](https://github.com/rahulnb17/MiniProject) |  Binary Arcade: A Digital Binary Game [(Detail)](https://github.com/Aarush-Kashyap-221CS201/S2-T17-Binary-Arcade) |
-| 18 | Small Scale DES Algorithm [(Detail)](https://github.com/SreeDakshinya/S1-T18-Small-Scale-Implementation-of-the-DES-Algorithm) | Smart Home Automation System [(Detail)](https://github.com/Abhishekkk18/S2-T18-Mini-Project) |
-| 19 | Water Level Indicator [(Detail)]() | The Chess Clock [(Detail)](https://github.com/rohitmanohar2108/The-Chess-Clock) |
-| 20 | Automated Sensory Based Waste Segregation System [(Detail)](https://github.com/arjun-vegeta/T20_DDS-mini-project) | Hydrosure [(Detail)](https://github.com/VishruthSKumar/S2-T20-HYDROSURE) |
-| 21 | Digital Combination Lock [(Detail)](https://github.com/kumaarakg/t21-dds-mini-project) | Smart Ring with Body Vital Sensors [(Detail)](https://github.com/Dhanush0804/DDS_Project_S2-T21) |
-| 22 | Traffic Light Controller: Intersection of a busy road and a street road) [(Detail)](https://github.com/Ravindra162/Traffic-Light-Controller-using-logisim-and-verilog) | Elevator Scheduling and Controlling System [(Detail)](https://github.com/adityavbhagwat/DDS-MINI-PROJECT) |
-| 23 | LED Catcher - A Game of Reflexes [(Detail)](https://github.com/aniket-mtr/LED-Chaser-Game-1-) | Car Parking Lot Ticket System [(Detail)](https://github.com/sanjaybhat2004/DDS-Mini-Project-23-24-Team-23-S2) |
+| 1 | [(Detail)]() | [(Detail)]() |
+| 2 | [(Detail)]() | [(Detail)]() |
+| 3 | [(Detail)]() | [(Detail)]() |
+| 4 | [(Detail)]() | [(Detail)]() |
+| 6 | [(Detail)]() | [(Detail)]() |
+| 7 | [(Detail)]() | [(Detail)]() |
+| 8 | [(Detail)]() | [(Detail)]() |
+| 9 | [(Detail)]() | [(Detail)]() |
+| 10 | [(Detail)]() | [(Detail)]() |
+| 11 | [(Detail)]() | [(Detail)]() |
+| 12 | [(Detail)]() | [(Detail)]() |
+| 13 | [(Detail)]() | [(Detail)]() |
+| 14 | [(Detail)]() | [(Detail)]() |
+| 15 | [(Detail)]() | [(Detail)]() |
+| 16 | [(Detail)]() | [(Detail)]() |
+| 17 | [(Detail)]() | [(Detail)]() |
+| 18 | [(Detail)]() | [(Detail)]() |
+| 19 | [(Detail)]() | [(Detail)]() |
+| 20 | [(Detail)]() | [(Detail)]() |
+| 21 | [(Detail)]() | [(Detail)]() |
+| 22 | [(Detail)]() | [(Detail)]() |
+| 23 | [(Detail)]() | [(Detail)]() |
