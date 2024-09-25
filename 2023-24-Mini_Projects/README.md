@@ -6,7 +6,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2023-24) det
 | Sl. No. | Title | Title |
 | :---: | --- | --- |
 | 1 | [(Detail)]() | Universal Asynchronous Receiver-Transmitter [(Detail)]() |
-| 2 | Smart Bicycle [(Detail)]() | Heatwatch: Temperature Monitoring System [(Detail)]() |
+| 2 | Smart Bicycle [(Detail)](https://github.com/brcnitk/DDS-Mini-Project-24-25/blob/main/2023-24-Mini_Projects/Snapshots/AmruthSD_Smart-Bicycle.pdf) | Heatwatch: Temperature Monitoring System [(Detail)]() |
 | 3 | [(Detail)]() | Braille-to-Audio Converter [(Detail)]() |
 | 4 | Agri Rain Alarm System [(Detail)]() | Automated Braking System [(Detail)]() |
 | 5 | TrainGuard: Empowering Ticket Collectors with Smart Passenger Monitoring [(Detail)]() | Tic Tac Toe Game [(Detail)]() |
