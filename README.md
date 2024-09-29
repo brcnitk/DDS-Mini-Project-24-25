@@ -5,25 +5,25 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 
 | Sl. No. | Title (S1-Section) | Title (S2-Section) |
 | :---: | --- | --- |
-| 1 | [(Detail)]() [(Overleaf)]() | [(Detail)]() |
-| 2 | [(Detail)]() | [(Detail)]() |
-| 3 | [(Detail)]() | [(Detail)]() |
-| 4 | [(Detail)]() | [(Detail)]() |
-| 6 | [(Detail)]() | [(Detail)]() |
-| 7 | [(Detail)]() | [(Detail)]() |
-| 8 | [(Detail)]() | [(Detail)]() |
-| 9 | [(Detail)]() | [(Detail)]() |
-| 10 | [(Detail)]() | [(Detail)]() |
-| 11 | [(Detail)]() | [(Detail)]() |
-| 12 | [(Detail)]() | [(Detail)]() |
-| 13 | [(Detail)]() | [(Detail)]() |
-| 14 | [(Detail)]() | [(Detail)]() |
-| 15 | [(Detail)]() | [(Detail)]() |
-| 16 | [(Detail)]() | [(Detail)]() |
-| 17 | [(Detail)]() | [(Detail)]() |
-| 18 | [(Detail)]() | [(Detail)]() |
-| 19 | [(Detail)]() | [(Detail)]() |
-| 20 | [(Detail)]() | [(Detail)]() |
-| 21 | [(Detail)]() | [(Detail)]() |
-| 22 | [(Detail)]() | [(Detail)]() |
-| 23 | [(Detail)]() | [(Detail)]() |
+| 1 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 2 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 3 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 4 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 6 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 7 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 8 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 9 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 10 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 11 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 12 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 13 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 14 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 15 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 16 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 17 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 18 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 19 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 20 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 21 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 22 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 23 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
