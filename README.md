@@ -26,4 +26,4 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 20 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 21 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 22 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 23 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 23 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8411d34b3c53668ae46a3) |
