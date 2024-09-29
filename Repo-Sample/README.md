@@ -7,11 +7,11 @@
 
   > Semester: 3rd Sem B. Tech. CSE
 
-  > Section: S1/S2
+  > Section: S2
 
-  > Member-1: Name, Roll No., email
+  > Member-1: DEv Chaudhari,231CS221 ,devchaudhari.231cs221@nitk.edu.in
 
-  > member-2: Name, Roll No., email
+  > member-2: 
 
   > Member-3: Name, Roll No., email
 </details>
