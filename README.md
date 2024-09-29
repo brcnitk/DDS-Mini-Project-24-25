@@ -5,7 +5,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 
 | Sl. No. | Title (S1-Section) | Title (S2-Section) |
 | :---: | --- | --- |
-| 1 | [(Detail)]() | [(Detail)]() |
+| 1 | [(Detail)]() [(Overleaf)]() | [(Detail)]() |
 | 2 | [(Detail)]() | [(Detail)]() |
 | 3 | [(Detail)]() | [(Detail)]() |
 | 4 | [(Detail)]() | [(Detail)]() |
