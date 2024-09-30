@@ -24,6 +24,6 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 18 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 19 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 20 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 21 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 21 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Srishti-K15/S2-T21) [(Overleaf)]() |
 | 22 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 23 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8411d34b3c53668ae46a3) |
