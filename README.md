@@ -9,7 +9,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 2 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 3 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 4 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 6 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 6 | [(Detail)](https://github.com/preranp/S1-T6) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 7 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 8 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 9 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
