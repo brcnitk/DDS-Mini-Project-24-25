@@ -8,7 +8,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 1 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 2 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Sravanthi355/S2_T2) [(Overleaf)]() |
 | 3 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/AJO248/DDS-Mini-Project-S2-T3) [(Overleaf)]() |
-| 4 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 4 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Puja-me/dds-mini-project_S2-T4) [(Overleaf)]() |
 | 6 | [(Detail)](https://github.com/preranp/S1-T6) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 7 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/rakshit-grg/S2-T7-SeatSmart) [(Overleaf)]() |
 | 8 | [(Detail)](https://github.com/vin06eet/S1-Team8) [(Overleaf)]() | [(Detail)](https://github.com/VarshiniAdurti28/DDS_Project_S2-T8) [(Overleaf)]() |
