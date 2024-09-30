@@ -19,7 +19,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 13 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 14 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Mithun-144/S2-T14) [(Overleaf)]() |
 | 15 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 16 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 16 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/poolsgithub/DDS-mini-project-S2-T-16) [(Overleaf)]() |
 | 17 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 18 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 19 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Rudranx/S2-T19-CasinoSlotMachine) [(Overleaf)]() |
