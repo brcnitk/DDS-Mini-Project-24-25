@@ -14,7 +14,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 8 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 9 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 10 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 11 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 11 | [(Detail)](https://github.com/Vanshika-Mittal/S1-T11) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 12 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 13 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 14 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
