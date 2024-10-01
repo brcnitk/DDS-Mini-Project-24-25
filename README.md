@@ -14,7 +14,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 7 | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8400cc6eb1ff4c306760b) | [(Detail)](https://github.com/rakshit-grg/S2-T7-SeatSmart) [(Overleaf)](https://www.overleaf.com/project/66f840b5fb2268efc4db0ead) |
 | 8 | [(Detail)](https://github.com/vin06eet/S1-Team8) [(Overleaf)](https://www.overleaf.com/project/66f84012fe9c6060f4f4a404) | [(Detail)](https://github.com/VarshiniAdurti28/DDS_Project_S2-T8) [(Overleaf)](https://www.overleaf.com/project/66f840bc34b3c53668ae3563) |
 | 9 | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f84018aa38c4286de537ed) | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f840c246c132e3bf40731a) |
-| 10 | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8401f0f9e207fe07215bf) | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f840c9cbf1a63e08de944e) |
+| 10 | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8401f0f9e207fe07215bf) | [(Detail)](https://github.com/sharhaan89/S2-T10) [(Overleaf)](https://www.overleaf.com/project/66f840c9cbf1a63e08de944e) |
 | 11 | [(Detail)](https://github.com/Vanshika-Mittal/S1-T11) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 12 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 13 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
