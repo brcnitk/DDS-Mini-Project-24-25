@@ -18,7 +18,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 11 | [(Detail)](https://github.com/Vanshika-Mittal/S1-T11) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 12 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 13 | [(Detail)](https://github.com/sblprateek05/S1-T13-Hardware-Implementation-of-Hashing-Algorithm) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
-| 14 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Mithun-144/S2-T14) [(Overleaf)]() |
+| 14 | [(Detail)](https://github.com/shreyaslal/Team-S1-T14-for-DDS-Miniproject-) [(Overleaf)]() | [(Detail)](https://github.com/Mithun-144/S2-T14) [(Overleaf)]() |
 | 15 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 16 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/poolsgithub/DDS-mini-project-S2-T-16) [(Overleaf)]() |
 | 17 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
