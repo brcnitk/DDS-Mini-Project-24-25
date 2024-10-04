@@ -55,5 +55,12 @@
   > Neatly update the Verilog code in code style only.
 </details>
 
+## References
+<details>
+  <summary>Detail</summary>
+> BBC News. *India train crash: At least 275 dead in Odisha, 2023*. Accessed: 2024-09-30.  
+   [(https://www.bbc.com/news)](https://www.bbc.com/news/world-asia-india-65793257)
+   
+</details>
 
 
