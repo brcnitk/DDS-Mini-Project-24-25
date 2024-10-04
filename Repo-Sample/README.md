@@ -28,7 +28,7 @@
 <details>
   <summary>Detail</summary>
 
-  > Update functional block diagram here.
+  > Update the functional block diagram here.
 </details>
 
 <!-- Third Section -->
@@ -36,7 +36,7 @@
 <details>
   <summary>Detail</summary>
 
-  > Explain the working of your model with the help of a functional table (compulsory) followed by the flowchart.
+  > Explain how your model works with the help of a functional table (compulsory) followed by the flowchart.
 </details>
 
 <!-- Fourth Section -->
