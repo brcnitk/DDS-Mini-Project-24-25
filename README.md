@@ -24,7 +24,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 17 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 18 | [(Detail)](https://github.com/abhavyasri/An-Enhanced-Kavach-System-for-Train-Accident-Prevention_S1-T18) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 19 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Rudranx/S2-T19-CasinoSlotMachine) [(Overleaf)]() |
-| 20 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 20 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/praveenyadav2005/S2-T20) [(Overleaf)]() |
 | 21 | [(Detail)]() [(Overleaf)]() | [(Detail)](https://github.com/Srishti-K15/S2-T21) [(Overleaf)]() |
 | 22 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f84114fb2268efc4db2a64) |
-| 23 | [(Detail)]() [(Overleaf)]() | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8411d34b3c53668ae46a3) |
+| 23 | [(Detail)] [(Overleaf)]() | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f8411d34b3c53668ae46a3) |
