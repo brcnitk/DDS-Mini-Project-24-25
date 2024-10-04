@@ -13,7 +13,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 6 | [(Detail)](https://github.com/preranp/S1-T6) [(Overleaf)](https://www.overleaf.com/project/66f84005a7ab13ae4c46b2c1) | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f840affb328954402c2dd8) |
 | 7 | [(Detail)](https://github.com/shanjiv177/S1_T7_Interactive_Cricket_Like_Game_Simulator) [(Overleaf)](https://www.overleaf.com/project/66f8400cc6eb1ff4c306760b) | [(Detail)](https://github.com/rakshit-grg/S2-T7-SeatSmart) [(Overleaf)](https://www.overleaf.com/project/66f840b5fb2268efc4db0ead) |
 | 8 | [(Detail)](https://github.com/vin06eet/S1-Team8) [(Overleaf)](https://www.overleaf.com/project/66f84012fe9c6060f4f4a404) | [(Detail)](https://github.com/VarshiniAdurti28/DDS_Project_S2-T8) [(Overleaf)](https://www.overleaf.com/project/66f840bc34b3c53668ae3563) |
-| 9 | [(Detail)]() [(Overleaf)](https://www.overleaf.com/project/66f84018aa38c4286de537ed) | [(Detail)](https://github.com/Padmavati-123/S2-T9) [(Overleaf)](https://www.overleaf.com/project/66f840c246c132e3bf40731a) |
+| 9 | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f84018aa38c4286de537ed) | [(Detail)](https://github.com/Padmavati-123/S2-T9) [(Overleaf)](https://www.overleaf.com/project/66f840c246c132e3bf40731a) |
 | 10 | [(Detail)](https://github.com/aparkhi83/Elderly-Care-Monitoring-System-S1-10) [(Overleaf)](https://www.overleaf.com/project/66f8401f0f9e207fe07215bf) | [(Detail)](https://github.com/sharhaan89/S2-T10) [(Overleaf)](https://www.overleaf.com/project/66f840c9cbf1a63e08de944e) |
 | 11 | [(Detail)](https://github.com/Vanshika-Mittal/S1-T11) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
 | 12 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
@@ -22,7 +22,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 15 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
 | 16 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/poolsgithub/DDS-mini-project-S2-T-16) [(Overleaf)]() |
 | 17 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
-| 18 | [(Detail)](https://github.com/abhavyasri/An-Enhanced-Kavach-System-for-Train-Accident-Prevention_S1-T18) [(Overleaf)]() | [(Detail)]() [(Overleaf)]() |
+| 18 | [(Detail)](https://github.com/abhavyasri/An-Enhanced-Kavach-System-for-Train-Accident-Prevention_S1-T18) [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
 | 19 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/Rudranx/S2-T19-CasinoSlotMachine) [(Overleaf)]() |
 | 20 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/praveenyadav2005/S2-T20) [(Overleaf)]() |
 | 21 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/Srishti-K15/S2-T21) [(Overleaf)]() |
