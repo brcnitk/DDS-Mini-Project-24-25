@@ -21,7 +21,14 @@
 <details>
   <summary>Detail</summary>
   
-  > Write your updatede abstract here
+  > Write your updated abstract here
+</details>
+
+## Functional Block Diagram
+<details>
+  <summary>Detail</summary>
+
+  > Update functional block diagram here.
 </details>
 
 <!-- Third Section -->
