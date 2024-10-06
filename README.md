@@ -16,7 +16,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 9 | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f84018aa38c4286de537ed) | [(Detail)](https://github.com/Padmavati-123/S2-T9) [(Overleaf)](https://www.overleaf.com/project/66f840c246c132e3bf40731a) |
 | 10 | [(Detail)](https://github.com/aparkhi83/Elderly-Care-Monitoring-System-S1-10) [(Overleaf)](https://www.overleaf.com/project/66f8401f0f9e207fe07215bf) | [(Detail)](https://github.com/sharhaan89/S2-T10) [(Overleaf)](https://www.overleaf.com/project/66f840c9cbf1a63e08de944e) |
 | 11 | [(Detail)](https://github.com/Vanshika-Mittal/S1-T11) [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
-| 12 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
+| 12 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/sai-147/S2_T12) [(Overleaf)]() |
 | 13 | [(Detail)](https://github.com/sblprateek05/S1-T13-Hardware-Implementation-of-Hashing-Algorithm) [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
 | 14 | [(Detail)](https://github.com/shreyaslal/Team-S1-T14-for-DDS-Miniproject-) [(Overleaf)]() | [(Detail)](https://github.com/Mithun-144/S2-T14) [(Overleaf)]() |
 | 15 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)]() |
