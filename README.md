@@ -9,7 +9,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 2 | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f83fe5aa38c4286de52d8b) | [(Detail)](https://github.com/Sravanthi355/S2_T2) [(Overleaf)](https://www.overleaf.com/project/66f84094cbf1a63e08de8ad7) |
 | 3 | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f83feefe9c6060f4f49e55) | [(Detail)](https://github.com/AJO248/DDS-Mini-Project-S2-T3) [(Overleaf)](https://www.overleaf.com/project/66f8409bfe9c6060f4f4bf5c) |
 | 4 | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f83ff6c6eb1ff4c30671a9) | [(Detail)](https://github.com/Puja-me/dds-mini-project_S2-T4) [(Overleaf)](https://www.overleaf.com/project/66f840a2cbf1a63e08de8f1b) |
-| 5 | [(Detail)](https://github.com/UtsavBhamra/S1-T5-DDS-mini-project-DineFlow) [(Overleaf)](https://www.overleaf.com/project/66f83ffecbf1a63e08de6b02) | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f840a80f9e207fe0723737) |
+| 5 | [(Detail)](https://github.com/UtsavBhamra/S1-T5-DDS-mini-project-DineFlow) [(Overleaf)](https://www.overleaf.com/project/66f83ffecbf1a63e08de6b02) | [(Detail)](https://github.com/mani5h-agarwal/S2-T5) [(Overleaf)](https://www.overleaf.com/project/66f840a80f9e207fe0723737) |
 | 6 | [(Detail)](https://github.com/preranp/S1-T6) [(Overleaf)](https://www.overleaf.com/project/66f84005a7ab13ae4c46b2c1) | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f840affb328954402c2dd8) |
 | 7 | [(Detail)](https://github.com/shanjiv177/S1_T7_Interactive_Cricket_Like_Game_Simulator) [(Overleaf)](https://www.overleaf.com/project/66f8400cc6eb1ff4c306760b) | [(Detail)](https://github.com/rakshit-grg/S2-T7-SeatSmart) [(Overleaf)](https://www.overleaf.com/project/66f840b5fb2268efc4db0ead) |
 | 8 | [(Detail)](https://github.com/vin06eet/S1-Team8) [(Overleaf)](https://www.overleaf.com/project/66f84012fe9c6060f4f4a404) | [(Detail)](https://github.com/VarshiniAdurti28/DDS_Project_S2-T8) [(Overleaf)](https://www.overleaf.com/project/66f840bc34b3c53668ae3563) |
@@ -26,5 +26,5 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 | 19 | [(Detail)](https://github.com/falconakhil/S1-T19-Small-Scale-Implementation-of-ChaCha20-Encrypter) [(Overleaf)]() | [(Detail)](https://github.com/Rudranx/S2-T19-CasinoSlotMachine) [(Overleaf)]() |
 | 20 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/praveenyadav2005/S2-T20) [(Overleaf)]() |
 | 21 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/Srishti-K15/S2-T21) [(Overleaf)]() |
-| 22 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f84114fb2268efc4db2a64) |
+| 22 | [(Detail)] [(Overleaf)]() | [(Detail)](https://github.com/Kranthikiran2005/S2-T22) [(Overleaf)](https://www.overleaf.com/project/66f84114fb2268efc4db2a64) |
 | 23 | [(Detail)] [(Overleaf)]() | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f8411d34b3c53668ae46a3) |
