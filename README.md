@@ -3,7 +3,7 @@ Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) det
 
 ## List:
 
-| Sl. No. | Title (S1-Section) | Title (S2-Section) |
+| Sl. No. | Title (S1) | Title (S2) |
 | :---: | --- | --- |
 | 1 | Data Recovery and Error Correction in Space Communication [(Detail)](https://github.com/Akshat-Bharara/S1-T1-Reed-Solomon-Codes) [(Overleaf)](https://www.overleaf.com/project/66f83fdaa7ab13ae4c46ac32) | [(Detail)] [(Overleaf)](https://www.overleaf.com/project/66f8408dfe9c6060f4f4bd0a) |
 | 2 | Vehicle Parking System [(Detail)](https://github.com/Aaryam-0110/S1-T2-Vehicle-Parking-System) [(Overleaf)](https://www.overleaf.com/project/66f83fe5aa38c4286de52d8b) | Smart Traffic Lights [(Detail)](https://github.com/Sravanthi355/S2_T2) [(Overleaf)](https://www.overleaf.com/project/66f84094cbf1a63e08de8ad7) |
