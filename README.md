@@ -1,4 +1,4 @@
-# DDS-Mini-Project-24-25
+# DDS Mini Project - 2024-25
 Design of Digital Systems (DDS) course Mini-Project (Academic Year: 2024-25) details ...
 
 ## List:
